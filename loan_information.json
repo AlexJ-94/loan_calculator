@@ -1,0 +1,79 @@
+[
+  {
+    "provider": "Nelnet",
+    "name": "Group A",
+    "principal": "",
+    "interest_rate": "",
+    "est_min_payment": ""
+  },
+  {
+    "provider": "Nelnet",
+    "name": "Group B",
+    "principal": "",
+    "interest_rate": "",
+    "est_min_payment": ""
+  },
+  {
+    "provider": "Nelnet",
+    "name": "Group C",
+    "principal": "",
+    "interest_rate": "",
+    "est_min_payment": ""
+  },
+  {
+    "provider": "Nelnet",
+    "name": "Group D",
+    "principal": "",
+    "interest_rate": "",
+    "est_min_payment": ""
+  },
+  {
+    "provider": "Nelnet",
+    "name": "Group E",
+    "principal": "",
+    "interest_rate": "",
+    "est_min_payment": ""
+  },
+  {
+    "provider": "Nelnet",
+    "name": "Group F",
+    "principal": "",
+    "interest_rate": "",
+    "est_min_payment": ""
+  },
+  {
+    "provider": "Nelnet",
+    "name": "Group G",
+    "principal": "",
+    "interest_rate": "",
+    "est_min_payment": ""
+  },
+  {
+   "provider": "Nelnet",
+    "name": "Group H",
+    "principal": "",
+    "interest_rate": "",
+    "est_min_payment": ""
+  },
+  {
+   "provider": "Wells Fargo",
+    "name": "CP0001",
+    "principal": "",
+    "interest_rate": "",
+    "est_min_payment": ""
+  },
+  {
+   "provider": "Wells Fargo",
+    "name": "CP0002",
+    "principal": "",
+    "interest_rate": "",
+    "est_min_payment": ""
+  },
+  {
+   "provider": "Wells Fargo",
+    "name": "CP0003",
+    "principal": "",
+    "interest_rate": "",
+    "est_min_payment": ""
+  }
+]
